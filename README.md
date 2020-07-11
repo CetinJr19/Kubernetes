@@ -1,1 +1,1 @@
-# Hel Chart and Wordpress task
+# Helm Chart and Wordpress task
